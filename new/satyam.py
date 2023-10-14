@@ -1,0 +1,2 @@
+satyam
+print(hello satyam)
